@@ -21,8 +21,7 @@ Tools used:
 -> enter here the functional specifications created in JIRA
 
 
-# 1 Testing section
-
+# 1 Sectiune de Testare
 ## 1.1 Test Planning
 
 The Test Plan is designed to describe all details of testing for the X module from the OrangeHRM application. 
